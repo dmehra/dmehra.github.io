@@ -22,6 +22,8 @@
 
 * [View Sample Newsletter](archive/testers_digest_2017_02_05.md)
 
+* [FAQ](SETUP.md)
+
 Built with GitHub Pages and Mailchimp.
 
 Inspired by [DevOps Weekly](http://www.devopsweekly.com/).
