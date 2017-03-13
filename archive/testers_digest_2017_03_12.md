@@ -1,6 +1,6 @@
 TESTER'S DIGEST
 ===============
-ISSUE #5 - Mar 12, 2017
+ISSUE #6 - Mar 12, 2017
 
 ---
 
