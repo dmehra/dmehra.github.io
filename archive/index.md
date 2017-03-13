@@ -11,3 +11,4 @@ More coming each week!
 * [Issue #3 - February 20, 2017](testers_digest_2017_02_20.md) // Topic: Testing Distributed Systems
 * [Issue #4 - February 26, 2017](testers_digest_2017_02_26.md) // Topic: Security Testing
 * [Issue #5 - March 5, 2017](testers_digest_2017_03_05.md) // Topic: Catastrophic Failures
+* [Issue #6 - March 12, 2017](testers_digest_2017_03_12.md) // Topic: Continuous Testing and Shift-X
