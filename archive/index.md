@@ -12,3 +12,4 @@ More coming each week!
 * [Issue #4 - February 26, 2017](testers_digest_2017_02_26.md) // Topic: Security Testing
 * [Issue #5 - March 5, 2017](testers_digest_2017_03_05.md) // Topic: Catastrophic Failures
 * [Issue #6 - March 12, 2017](testers_digest_2017_03_12.md) // Topic: Continuous Testing and Shift-X
+* [Issue #7 - March 19, 2017](testers_digest_2017_03_19.md) // Topic: Technical Debt
