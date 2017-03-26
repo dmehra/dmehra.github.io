@@ -13,3 +13,4 @@ More coming each week!
 * [Issue #5 - March 5, 2017](testers_digest_2017_03_05.md) // Topic: Catastrophic Failures
 * [Issue #6 - March 12, 2017](testers_digest_2017_03_12.md) // Topic: Continuous Testing and Shift-X
 * [Issue #7 - March 19, 2017](testers_digest_2017_03_19.md) // Topic: Technical Debt
+* [Issue #8 - March 26, 2017](testers_digest_2017_03_26.md) // Topic: Postmortems And Root Cause Analysis
