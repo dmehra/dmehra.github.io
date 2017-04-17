@@ -16,3 +16,4 @@ More coming each week!
 * [Issue #8 - March 26, 2017](testers_digest_2017_03_26.md) // Topic: Postmortems And Root Cause Analysis
 * [Issue #9 - April 2, 2017](testers_digest_2017_04_02.md) // Topic: Test Documentation
 * [Issue #10 - April 9, 2017](testers_digest_2017_04_09.md) // Topic: Hiring Test Engineers
+* [Issue #11 - April 16, 2017](testers_digest_2017_04_16.md) // Topic: End-to-end Testing
