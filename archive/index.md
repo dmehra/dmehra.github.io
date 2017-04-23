@@ -17,4 +17,4 @@ More coming each week!
 * [Issue #9 - April 2, 2017](testers_digest_2017_04_02.md) // Topic: Test Documentation
 * [Issue #10 - April 9, 2017](testers_digest_2017_04_09.md) // Topic: Hiring Test Engineers
 * [Issue #11 - April 16, 2017](testers_digest_2017_04_16.md) // Topic: End-to-end Testing
-* [Issue #12 - April 23, 2017](testers_digest_2017_04_23.mc) // Topic: Unit Tests
+* [Issue #12 - April 23, 2017](testers_digest_2017_04_23.md) // Topic: Unit Tests
