@@ -1,5 +1,5 @@
 ---
-description: This issue's topic of Security Testing was prompted by this week's news of the Cloudbleed security leak, and proof of successful attack on SHA1 encryption. Disclaimer: I'm not a security expert by any means, so caveat emptor.
+description: This issue's topic of Security Testing was prompted by this week's news of the Cloudbleed security leak, and proof of successful attack on SHA1 encryption. Disclaimer! I'm not a security expert by any means, so caveat emptor.
 ---
 
 TESTER'S DIGEST

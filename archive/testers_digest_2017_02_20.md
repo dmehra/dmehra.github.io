@@ -1,5 +1,5 @@
 ---
-description: Topic: Testing Distributed Systems
+description: Topic -- Testing Distributed Systems
 ---
 
 TESTER'S DIGEST

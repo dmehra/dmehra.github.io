@@ -1,5 +1,5 @@
 ---
-description: Topic: Testing In Production
+description: Topic -- Testing In Production
 ---
 
 TESTER'S DIGEST

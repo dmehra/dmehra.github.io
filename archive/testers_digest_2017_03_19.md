@@ -1,5 +1,5 @@
 ---
-Our topic this week is technical debt, as a few good posts caught my eye.
+description: Our topic this week is technical debt, as a few good posts caught my eye.
 ---
 
 TESTER'S DIGEST
