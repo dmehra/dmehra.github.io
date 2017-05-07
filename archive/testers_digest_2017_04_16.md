@@ -1,3 +1,7 @@
+---
+description: We look at end-to-end testing, also known under the names of functional, integration, or application testing. The focus will be on automated regression tests, exploratory testing is its own subject. This time I'm referencing a couple of my own posts, a rarity.
+---
+
 TESTER'S DIGEST
 ===============
 ISSUE #11 - Apr 16, 2017

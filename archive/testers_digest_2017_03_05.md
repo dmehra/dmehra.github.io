@@ -1,3 +1,7 @@
+---
+description: This issue will focus on the nature of catastrophe and its prevention.
+---
+
 TESTER'S DIGEST
 ===============
 ISSUE #5 - Mar 5, 2017

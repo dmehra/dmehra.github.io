@@ -1,3 +1,7 @@
+---
+description: This issue will focus on continuous testing, which is the current name for the square-peg-into-round-hole fit of QA with Agile methodology; and the new shift-X terminology (shift-left, shift-right, etc).
+---
+
 TESTER'S DIGEST
 ===============
 ISSUE #6 - Mar 12, 2017

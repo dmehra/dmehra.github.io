@@ -1,5 +1,4 @@
 ---
-title: Tester's Digest // Topic: Test Documentation
 description: This week's topic is documentation around the testing efforts, from test plans to quality reports. I find that reporting is not a well solved problem in QA arena, please send me links if you know of good ways to track quality.
 ---
 

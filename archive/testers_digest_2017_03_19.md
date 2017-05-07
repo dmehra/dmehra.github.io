@@ -1,3 +1,7 @@
+---
+Our topic this week is technical debt, as a few good posts caught my eye.
+---
+
 TESTER'S DIGEST
 ===============
 ISSUE #7 - Mar 19, 2017

@@ -1,3 +1,7 @@
+---
+description: Topic: Tester's Role
+---
+
 TESTER'S DIGEST
 ===============
 ISSUE #1 - Feb 5th, 2017
