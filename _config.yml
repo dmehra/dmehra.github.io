@@ -1,5 +1,7 @@
 theme: jekyll-theme-dinky
 title: Tester's Digest
 description: A weekly source of software testing news
+image: https://github.com/dmehra/dmehra.github.io/blob/master/images/td_logo.png
+author: dmehra
 gems:
   - jekyll-seo-tag
