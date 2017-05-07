@@ -112,3 +112,44 @@ The default Dinky was creating duplicate "View on GitHub" buttons on my index pa
 I added a `favicon.ico` PNG file to get that "TD" marker in the browser tab or bookmark. I made the image myself by using Google's free font library.
 
 The index page for the site is in Markdown because why not, Jekyll transforms it into index.html. It includes the embedded signup form snippet provided by Mailchimp. The form "just works".
+
+### How to get SEO and Slack URL unfurling for posts
+
+I noticed that links to Tester's Digest issues were not getting a nice little snippet when posted in Slack. Quick investigation showed that this fanciness, called [URL unfurling](https://medium.com/slack-developer-blog/everything-you-ever-wanted-to-know-about-unfurling-but-were-afraid-to-ask-or-how-to-make-your-e64b4bb9254), is based on SEO (Search Engine Optimization) metadata which I didn't have, hence this newsletter was also not enjoying SEO benefits. Here is how I [added metadata tags with Jekyll](https://github.com/jekyll/jekyll-seo-tag#usage) and Markdown:
+
+Added to `Gemfile`:
+
+```
+gem 'jekyll-seo-tag'
+```
+
+Added to `_config.yml`:
+
+```
+gems:
+  - jekyll-seo-tag
+```
+
+Added right before `</head>` in the site template `_layouts/default.html` (without the extra spaces):
+
+```
+{ % seo % }
+```
+
+Then in markdown of each post, I added "front matter" section that is transformed by Jekyll into the meta tags when generating html page:
+
+```
+---
+description: What this post is about.
+---
+```
+
+Note a gotcha that colon character `:` is not welcome inside the description.
+
+I tried overriding `title` in the markdown front matter, but it wasn't getting picked up, so I stayed with the default site-wide title "Tester's Digest". I also tried adding image tag to get a thumbnail logo for the unfurled URLs in slack, that didn't work either, sticking with the "good enough" solution of description metadata.
+
+Here is what comes out in HTML:
+
+```
+{% seo %}
+```
