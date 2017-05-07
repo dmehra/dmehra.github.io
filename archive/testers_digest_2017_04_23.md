@@ -1,3 +1,7 @@
+---
+description: Today's theme is unit tests, a huge space, so don't expect exhaustive coverage!
+---
+
 TESTER'S DIGEST
 ===============
 ISSUE #12 - Apr 23, 2017

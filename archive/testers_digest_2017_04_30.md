@@ -1,5 +1,4 @@
 ---
-title: Tester's Digest #13 // Topic: Testing Data Science
 description: Today we look at how (and why) we should test software relying on Data Science. If you know of more resources than what's in this newsletter, please send them my way. In a bit of topic reversal, I present *using* DS concepts for testing in Off-Topic section.
 ---
 
