@@ -20,3 +20,4 @@ More coming each week!
 * [Issue #12 - April 23, 2017](testers_digest_2017_04_23.md) // Topic: Unit Tests
 * [Issue #13 - April 30, 2017](testers_digest_2017_04_30.md) // Topic: Testing Data Science
 * [Issue #14 - May 7, 2017](testers_digest_2017_05_07.md) // Topic: On Maintenance
+* [Issue #15 - May 14, 2017](testers_digest_2017_05_14.md) // Topic: Failure Injection
