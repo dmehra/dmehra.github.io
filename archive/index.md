@@ -22,3 +22,4 @@ More coming each week!
 * [Issue #14 - May 7, 2017](testers_digest_2017_05_07.md) // Topic: On Maintenance
 * [Issue #15 - May 14, 2017](testers_digest_2017_05_14.md) // Topic: Failure Injection
 * [Issue #16 - May 21, 2017](testers_digest_2017_05_21.md) // Topic: Exploratory Testing
+* [Issue #17 - May 28, 2017](testers_digest_2017_05_28.md) // Topic: Testing Practices At Tech Companies
