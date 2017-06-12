@@ -24,3 +24,4 @@ More coming each week!
 * [Issue #16 - May 21, 2017](testers_digest_2017_05_21.md) // Topic: Exploratory Testing
 * [Issue #17 - May 28, 2017](testers_digest_2017_05_28.md) // Topic: Testing Practices At Tech Companies
 * [Issue #18 - June 4, 2017](testers_digest_2017_06_04.md) // Topic: Think Like A Tester
+* [Issue #19 - June 11, 2017](testers_digest_2017_06_11.md) // Topic: Testing Analogies
