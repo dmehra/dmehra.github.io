@@ -25,4 +25,5 @@ More coming each week!
 * [Issue #17 - May 28, 2017](testers_digest_2017_05_28.md) // Topic: Testing Practices At Tech Companies
 * [Issue #18 - June 4, 2017](testers_digest_2017_06_04.md) // Topic: Think Like A Tester
 * [Issue #19 - June 11, 2017](testers_digest_2017_06_11.md) // Topic: Testing Analogies
-* [Issue #20 - June 18, 2017](testers_digest_2017_06_18.md) // Topic: Tester's Role 
+* [Issue #20 - June 18, 2017](testers_digest_2017_06_18.md) // Topic: Tester's Role
+* [Issue #21 - June 25, 2017](testers_digest_2017_06_25.md) // Topic: Continuous Integration / Continuous Delivery
