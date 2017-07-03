@@ -27,3 +27,4 @@ More coming each week!
 * [Issue #19 - June 11, 2017](testers_digest_2017_06_11.md) // Topic: Testing Analogies
 * [Issue #20 - June 18, 2017](testers_digest_2017_06_18.md) // Topic: Tester's Role
 * [Issue #21 - June 25, 2017](testers_digest_2017_06_25.md) // Topic: Continuous Integration / Continuous Delivery
+* [Issue #22 - July 3, 2017](testers_digest_2017_07_03.md) // Topic: Building Better Software
