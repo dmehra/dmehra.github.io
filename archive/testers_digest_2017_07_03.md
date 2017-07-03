@@ -1,5 +1,5 @@
 ---
-description: Building Better Software. -- Testing doesn't put quality into software, it only shines the light on the good, bad and ugly that's already present in it. To build higher quality software, consider applying specific best practices at the stages of design and development.
+description: Building Better Software. -- Testing doesn't put quality into software, it only shines the light on the good, bad and ugly that's already present therein. To build higher quality software, consider applying specific best practices at the stages of design and development.
 ---
 
 TESTER'S DIGEST
@@ -8,7 +8,7 @@ ISSUE #22 - July 3, 2017
 
 ---
 
-Testing doesn't put quality into software, it only shines the light on the good, bad and ugly that's already present in it. To build higher quality software, consider applying specific best practices at the stages of design and development.
+Testing doesn't put quality into software, it only shines the light on the good, bad and ugly that's already present therein. To build higher quality software, consider applying specific best practices at the stages of design and development.
 
 Topic: Building Better Software
 ===============================
@@ -29,7 +29,7 @@ Here's a practical tip from Google: reduce nesting to reduce complexity and bugg
 
 <https://testing.googleblog.com/2017/06/code-health-reduce-nesting-reduce.html>
 
-More programming habits to avoid, so you end up with better code:
+More programming habits to avoid, so you end up with better software (the list is not specific to any programming language and transcends code to cover general work habits):
 
 <https://techbeacon.com/35-bad-programming-habits-make-your-code-smell>
 
