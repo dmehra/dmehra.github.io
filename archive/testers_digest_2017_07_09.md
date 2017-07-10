@@ -13,7 +13,7 @@ Testing doesn't put quality into software, it only shines the light on the good,
 Topic: Code Review
 ==================
 
-Praise for code review as a process from two different ex-Googler:
+Praise for code review as a process from two different ex-Googlers, written in 2011 and 2016:
 
 <http://goodmath.scientopia.org/2011/07/06/things-everyone-should-do-code-review/>
 
@@ -43,7 +43,7 @@ Description of Spotify's 2-pass code review:
 
 <https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36>
 
-If you're hungry for more articles on code review, this is a 161-page PDF with a Cisco case study and lots more:
+If you're hungry for more articles on the subject, this is a 161-page PDF with a Cisco case study and lots more "Best Kept Secrets of Peer Code Review":
 
 <https://smartbear.com/SmartBear/media/pdfs/best-kept-secrets-of-peer-code-review.pdf>
 
@@ -55,9 +55,13 @@ Things worth learning: How innovations are born, with the background on statisti
 
 <https://blog.acolyer.org/2017/02/03/dynamics-on-emerging-spaces-modeling-the-emergence-of-novelties/>
 
-The above touches on Benford's law, which is worth a more detailed read:
+The above touches on Benford's law, which is worth a more detailed read. The law states that in many data sets, values start with 1 about 30% of the time, while <5% of the values start with 9, instead of the about 11% you'd expect from uniform distribution. This is not a joke but very real albeit surprising math.
 
 <http://people.math.gatech.edu/~hill/ARTICLES/The%20Power%20of%20One.pdf>
+
+Back to innovations, for a taste of the software I work on, check out Quid's network representation of news and companies data, where articles with similar language are combined into clusters, and nodes bridging two clusters reveal innovative ideas and businesses.
+
+<https://quid.com/feed/why-do-bridging-nodes-matter-they-connect-ideas>
 
 ---
 
