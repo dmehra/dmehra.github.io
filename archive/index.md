@@ -28,3 +28,4 @@ More coming each week!
 * [Issue #20 - June 18, 2017](testers_digest_2017_06_18.md) // Topic: Tester's Role
 * [Issue #21 - June 25, 2017](testers_digest_2017_06_25.md) // Topic: Continuous Integration / Continuous Delivery
 * [Issue #22 - July 3, 2017](testers_digest_2017_07_03.md) // Topic: Building Better Software
+* [Issue #23 - July 9, 2017](testers_digest_2017_07_09.md) // Topic: Code Review
