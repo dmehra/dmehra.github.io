@@ -29,3 +29,5 @@ More coming each week!
 * [Issue #21 - June 25, 2017](testers_digest_2017_06_25.md) // Topic: Continuous Integration / Continuous Delivery
 * [Issue #22 - July 3, 2017](testers_digest_2017_07_03.md) // Topic: Building Better Software
 * [Issue #23 - July 9, 2017](testers_digest_2017_07_09.md) // Topic: Code Review
+* [Issue #24 - July 16, 2017](testers_digest_2017_07_16.md) // Topic: Static Code Analysis
+* [Issue #25 - July 24, 2017](testers_digest_2017_07_24.md) // Topic: Unit Tests and TDD, Worth It?
