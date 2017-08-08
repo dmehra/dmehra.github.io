@@ -32,3 +32,4 @@ More coming each week!
 * [Issue #24 - July 16, 2017](testers_digest_2017_07_16.md) // Topic: Static Code Analysis
 * [Issue #25 - July 24, 2017](testers_digest_2017_07_24.md) // Topic: Unit Tests and TDD, Worth It?
 * [Issue #26 - July 30. 2017](testers_digest_2017_07_30.md) // Topic: UI Test Automation
+* [Issue #27 - August 7, 2017](testers_digest_2017_08_07.md) // Topic: Observability
