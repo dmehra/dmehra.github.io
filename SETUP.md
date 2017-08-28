@@ -83,6 +83,10 @@ The newsletter? Simply because I read a lot, and I figured, some of the things I
 
 Weekly-ish. I try to publish every Sunday.
 
+### Is there an RSS feed?
+
+Yes, there is an Atom feed. I set it up using [jekyll-feed plugin](https://help.github.com/articles/atom-rss-feeds-for-github-pages/).
+
 ### Why do Tester's Digest emails have `<angle brackets around the URLs>` ?
 
 Due to a quirk of GFM (GitHub Flavored Markdown), I have to put the URLs inside angle brackets when writing the markdown files. They render fine on the GH Pages site, but the brackets show up in newsletter emails. There is no way around this, short of hand-editing the brackets out of the markdown when creating a Mailchimp campaign. That would be error prone, and I cannot be bothered. The angle brackets stay.
