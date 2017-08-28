@@ -85,7 +85,9 @@ Weekly-ish. I try to publish every Sunday.
 
 ### Is there an RSS feed?
 
-Yes, there is an Atom feed. I set it up using [jekyll-feed plugin](https://help.github.com/articles/atom-rss-feeds-for-github-pages/).
+Yes, there is an Atom feed, [feed.xml](http://testersdigest.mehras.net/feed.xml). 
+
+I set it up using [jekyll-feed plugin](https://help.github.com/articles/atom-rss-feeds-for-github-pages/).
 
 ### Why do Tester's Digest emails have `<angle brackets around the URLs>` ?
 
