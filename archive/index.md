@@ -34,3 +34,4 @@ More coming each week!
 * [Issue #26 - July 30. 2017](testers_digest_2017_07_30.md) // Topic: UI Test Automation
 * [Issue #27 - August 7, 2017](testers_digest_2017_08_07.md) // Topic: Observability
 * [Issue #28 - August 13, 2017](testers_digest_2017_08_13.md) // Topic: Learning To Test
+* [Issue #29 - August 27, 2017](testers_digest_2017_08_27.md) // Topic: Levels of Testing
