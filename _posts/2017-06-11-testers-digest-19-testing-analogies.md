@@ -1,5 +1,6 @@
 ---
-description: Testing Analogies. -- Quality and testing subjects are sometimes best explained through the use of analogies. Similes, metaphors, parables and bad puns can work too. This issue of Tester's Digest offers a compilation of all of the above... even koans.
+title: "Tester's Digest #19: Testing Analogies"
+excerpt: Testing Analogies. -- Quality and testing subjects are sometimes best explained through the use of analogies. Similes, metaphors, parables and bad puns can work too. This issue of Tester's Digest offers a compilation of all of the above... even koans.
 ---
 
 TESTER'S DIGEST

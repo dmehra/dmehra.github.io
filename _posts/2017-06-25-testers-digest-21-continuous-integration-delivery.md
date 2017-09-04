@@ -1,5 +1,6 @@
 ---
-description: Continuous Integration / Continuous Delivery. Today we look at the testing aspects of CI/CD.
+title: "Tester's Digest #21: Continuous Integration / Continuous Delivery"
+excerpt: Continuous Integration / Continuous Delivery. Today we look at the testing aspects of CI/CD.
 ---
 
 TESTER'S DIGEST

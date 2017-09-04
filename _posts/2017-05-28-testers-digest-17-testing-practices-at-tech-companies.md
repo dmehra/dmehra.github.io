@@ -1,5 +1,6 @@
 ---
-description: This issue covers testing practices used at specific tech companies -- Google, Facebook, Yelp, AirBnB, Atlassian.
+title: "Tester's Digest #17: Testing Practices At Tech Companies"
+excerpt: This issue covers testing practices used at specific tech companies -- Google, Facebook, Yelp, AirBnB, Atlassian.
 ---
 
 TESTER'S DIGEST

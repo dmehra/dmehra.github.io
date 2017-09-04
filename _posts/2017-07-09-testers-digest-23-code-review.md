@@ -1,5 +1,6 @@
 ---
-description: Building Better Software -- Code Review. -- Testing doesn't put quality into software, it only shines the light on the good, bad and ugly that's already present therein. To build higher quality software, consider applying specific best practices at the stages of design and development. This issue looks at code review.
+title: "Tester's Digest #23: Code Review"
+excerpt: Building Better Software -- Code Review. -- Testing doesn't put quality into software, it only shines the light on the good, bad and ugly that's already present therein. To build higher quality software, consider applying specific best practices at the stages of design and development. This issue looks at code review.
 ---
 
 TESTER'S DIGEST

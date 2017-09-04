@@ -1,5 +1,6 @@
 ---
-description: Building Better Software -- Static Code Analysis. -- Testing doesn't put quality into software, it only shines the light on the good, bad and ugly that's already present therein. To build higher quality software, consider applying specific best practices at the stages of design and development. This issue looks at static code analysis.
+title: "Tester's Digest #24: Static Code Analysis"
+excerpt: Building Better Software -- Static Code Analysis. -- Testing doesn't put quality into software, it only shines the light on the good, bad and ugly that's already present therein. To build higher quality software, consider applying specific best practices at the stages of design and development. This issue looks at static code analysis.
 ---
 
 TESTER'S DIGEST

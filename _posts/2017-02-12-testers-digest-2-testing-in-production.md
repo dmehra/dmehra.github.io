@@ -1,5 +1,6 @@
 ---
-description: Topic -- Testing In Production
+title: "Tester's Digest #2: Testing In Production"
+excerpt: Testing In Production. -- What legitimate organizations mean when they say they test in prod.
 ---
 
 TESTER'S DIGEST

@@ -1,5 +1,6 @@
 ---
-description: UI Test Automation. -- Testing the UI of a web application, or testing the behavior of the application via the UI (different but often overlapping activities), increasingly calls for automation to catch regression bugs, and to keep with agile delivery schedules. We look at a few aspects of UI test automation in this issue.
+title: "Tester's Digest #26: UI Test Automation"
+excerpt: UI Test Automation. -- Testing the UI of a web application, or testing the behavior of the application via the UI (different but often overlapping activities), increasingly calls for automation to catch regression bugs, and to keep with agile delivery schedules. We look at a few aspects of UI test automation in this issue.
 ---
 
 TESTER'S DIGEST

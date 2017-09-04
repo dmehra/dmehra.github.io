@@ -1,5 +1,6 @@
 ---
-description: This issue focuses on the how and why of postmortems.
+title: "Tester's Digest #8: Postmortems And Root Cause Analysis"
+excerpt: This issue focuses on the how and why of postmortems.
 ---
 
 TESTER'S DIGEST

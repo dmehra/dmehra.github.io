@@ -1,5 +1,6 @@
 ---
-description: Topic -- Tester's Role
+title: "Tester's Digest #1: Tester's Role"
+excerpt: Topic -- Tester's Role. Let's take a look at what today's testers do.
 ---
 
 TESTER'S DIGEST

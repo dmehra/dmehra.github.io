@@ -1,5 +1,6 @@
 ---
-description: Building Better Software. -- Testing doesn't put quality into software, it only shines the light on the good, bad and ugly that's already present therein. To build higher quality software, consider applying specific best practices at the stages of design and development.
+title: "Tester's Digest #22: Building Better Software"
+excerpt: Building Better Software. -- Testing doesn't put quality into software, it only shines the light on the good, bad and ugly that's already present therein. To build higher quality software, consider applying specific best practices at the stages of design and development.
 ---
 
 TESTER'S DIGEST

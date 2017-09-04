@@ -1,5 +1,6 @@
 ---
-description: Let's take a look at exploratory testing which is said to be the most valuable manual testing activity. In the off-topic section you will find a few amusing bugs.
+title: "Tester's Digest #16: Exploratory Testing"
+excerpt: Let's take a look at exploratory testing which is said to be the most valuable manual testing activity. In the off-topic section you will find a few amusing bugs.
 ---
 
 TESTER'S DIGEST

@@ -1,5 +1,6 @@
 ---
-description: Levels of Testing. -- We look at testing levels, from unit tests to functional and end-to-end system tests, and how to determine where to focus one's testing efforts.
+title: "Tester's Digest #29: Levels of Testing"
+excerpt: Levels of Testing. -- We look at testing levels, from unit tests to functional and end-to-end system tests, and how to determine where to focus one's testing efforts.
 ---
 
 TESTER'S DIGEST

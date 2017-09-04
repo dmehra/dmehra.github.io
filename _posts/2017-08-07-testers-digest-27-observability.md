@@ -1,5 +1,6 @@
 ---
-description: Observability. -- How to know if your service/application is doing well, through metrics and alerts based on them, and how to debug it when it's not doing well, through logs.
+title: "Tester's Digest #27: Observability"
+excerpt: Observability. -- How to know if your service/application is doing well, through metrics and alerts based on them, and how to debug it when it's not doing well, through logs.
 ---
 
 TESTER'S DIGEST

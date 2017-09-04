@@ -1,5 +1,6 @@
 ---
-description: Think Like A Tester. This issue talks about critical reasoning and tester mindset.
+title: "Tester's Digest #18: Think Like A Tester"
+excerpt: Think Like A Tester. This issue talks about critical reasoning and tester mindset.
 ---
 
 TESTER'S DIGEST

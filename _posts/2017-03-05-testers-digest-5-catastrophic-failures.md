@@ -1,5 +1,6 @@
 ---
-description: This issue will focus on the nature of catastrophe and its prevention.
+title: "Tester's Digest #5: Catastrophic Failures"
+excerpt: Catastrophic Failures. -- This issue will focus on the nature of catastrophe and its prevention.
 ---
 
 TESTER'S DIGEST

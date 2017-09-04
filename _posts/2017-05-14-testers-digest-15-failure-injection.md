@@ -1,5 +1,6 @@
 ---
-description: Today's theme is failure injection testing, prominently featuring Netflix who gave the world ChaosMonkey. In the off-topic section you will find a few fun email bugs.
+title: "Tester's Digest #15: Failure Injection"
+excerpt: Today's theme is failure injection testing, prominently featuring Netflix who gave the world ChaosMonkey. In the off-topic section you will find a few fun email bugs.
 ---
 
 TESTER'S DIGEST

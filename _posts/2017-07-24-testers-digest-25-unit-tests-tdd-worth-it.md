@@ -1,5 +1,6 @@
 ---
-description: Building Better Software -- Unit Tests and TDD, Worth It? -- To continue the topic of building better software, this issue considers the question of whether it's worthwhile for developers to write unit tests, and use Test Driven Development approach.
+title: "Tester's Digest #25: Unit Tests and TDD, Worth It?"
+excerpt: Building Better Software -- Unit Tests and TDD, Worth It? -- To continue the topic of building better software, this issue considers the question of whether it's worthwhile for developers to write unit tests, and use Test Driven Development approach.
 ---
 
 TESTER'S DIGEST

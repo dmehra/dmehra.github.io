@@ -1,5 +1,6 @@
 ---
-description: Tester's Role. -- Let's take a look at the role a tester plays in an engineering organization. Yes, again; Tester's Digest issue #1 opened this subject with coverage of Google's SDET vs TE roles, and today we explore further.
+title: "Tester's Digest #20: Tester's Role"
+excerpt: Tester's Role. -- Let's take a look at the role a tester plays in an engineering organization. Yes, again; Tester's Digest issue #1 opened this subject with coverage of Google's SDET vs TE roles, and today we explore further.
 ---
 
 TESTER'S DIGEST

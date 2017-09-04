@@ -1,5 +1,6 @@
 ---
-description: Learning To Test. -- Someone asked on Slack's Testers.io community how to learn testing and how hard it is. That question will have highly variable answers depending on one's starting point. This issue of Tester's Digest offers pointers to some learning resources I know of, some targeted at newcomers to the testing profession, others of use to seasoned practitioners, and a couple of fun ones in the Off-Topic section.
+title: "Tester's Digest #28: Learning To Test"
+excerpt: Learning To Test. -- Someone asked on Slack's Testers.io community how to learn testing and how hard it is. That question will have highly variable answers depending on one's starting point. This issue of Tester's Digest offers pointers to some learning resources I know of, some targeted at newcomers to the testing profession, others of use to seasoned practitioners, and a couple of fun ones in the Off-Topic section.
 ---
 
 TESTER'S DIGEST

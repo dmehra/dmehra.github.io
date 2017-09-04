@@ -1,5 +1,6 @@
 ---
-description: Today we talk about code maintenance and maintainability, a key factor in quality, in my experience. This necessarily connects to the topic of technical debt.
+title: "Tester's Digest #14: On Maintenance"
+excerpt: Today we talk about code maintenance and maintainability, a key factor in quality, in my experience. This necessarily connects to the topic of technical debt.
 ---
 
 TESTER'S DIGEST

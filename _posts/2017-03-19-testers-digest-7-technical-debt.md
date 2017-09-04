@@ -1,5 +1,6 @@
 ---
-description: Our topic this week is technical debt, as a few good posts caught my eye.
+title: "Tester's Digest #7: Technical Debt"
+excerpt: Our topic this week is technical debt, as a few good posts caught my eye.
 ---
 
 TESTER'S DIGEST

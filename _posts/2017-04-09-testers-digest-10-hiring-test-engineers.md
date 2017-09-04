@@ -1,5 +1,6 @@
 ---
-description: This week we read up on hiring and interviewing for QA / test roles. I have seen the challenges of staffing a strong Quality Engineering team first hand, and continue to be on the lookout for better ways of sourcing and screening candidates.
+title: "Tester's Digest #10: Hiring Test Engineers"
+excerpt: This week we read up on hiring and interviewing for QA / test roles. I have seen the challenges of staffing a strong Quality Engineering team first hand, and continue to be on the lookout for better ways of sourcing and screening candidates.
 ---
 
 TESTER'S DIGEST

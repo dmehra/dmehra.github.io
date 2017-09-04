@@ -1,5 +1,6 @@
 ---
-description: Topic -- Testing Distributed Systems
+title: "Tester's Digest #3: Testing Distributed Systems"
+excerpt: Testing Distributed Systems. -- In today's world, you'd have to be in a rather niche space to *not* be testing distributed systems, so most aspects apply whether you're testing a system built on microservices, a web app that relies on AWS for its backend, an online game, or a large-scale NoSQL database.
 ---
 
 TESTER'S DIGEST
