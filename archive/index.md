@@ -32,3 +32,4 @@ More coming each week!
 * [Issue #27 - August 7, 2017]({{ site.baseurl }}{% post_url 2017-08-07-testers-digest-27-observability %}) // Topic: Observability
 * [Issue #28 - August 13, 2017]({{ site.baseurl }}{% post_url 2017-08-13-testers-digest-28-learning-to-test %}) // Topic: Learning To Test
 * [Issue #29 - August 27, 2017]({{ site.baseurl }}{% post_url 2017-08-27-testers-digest-29-levels-of-testing %}) // Topic: Levels of Testing
+* [Issue #30 - September 4, 2017]({{ site.baseurl }}{% post_url 2017-09-04-testers-digest-30-testing-cars %}) // Topic: Testing Cars
