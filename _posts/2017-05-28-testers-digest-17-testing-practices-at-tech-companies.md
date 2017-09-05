@@ -73,9 +73,9 @@ How Google Tests Software - Part Six (The Life of a TE, Test Engineer):
 Off-Topic
 =========
 
-In followup to the previous issue on Exploratory Testing:
+In followup to the previous issue:
 
-<http://testersdigest.mehras.net/archive/testers_digest_2017_05_21.html>
+[Issue #16 - May 21, 2017]({{ site.baseurl }}{% post_url 2017-05-21-testers-digest-16-exploratory-testing %}) // Topic: Exploratory Testing
 
 I want to suggest a newer, better post by James Bach and Michael Bolton that traces the development of their ideas on exploratory testing and arrives at its 3.0 version where ALL testing is defined as exploratory.
 

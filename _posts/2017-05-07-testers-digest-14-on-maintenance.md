@@ -11,7 +11,7 @@ ISSUE #14 - May 7, 2017
 
 Today we talk about software maintenance and maintainability, a key factor in quality, in my experience. This necessarily connects to the topic of technical debt, see also an older issue:
 
-<http://testersdigest.mehras.net/archive/testers_digest_2017_03_19.html>
+[Issue #7 - March 19, 2017]({{ site.baseurl }}{% post_url 2017-03-19-testers-digest-7-technical-debt %}) // Topic: Technical Debt
 
 Topic: On Maintenance
 =====================

@@ -18,9 +18,9 @@ A really good overview of automated testing, unit vs integration tests, using te
 
 <http://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html>
 
-The testing pyramid, with a wide base of unit tests and a narrow peak of end-to-end tests, is a familiar pictogram of the "right way to test". Here it is, reimagined as a bug filter. I was unable to discover provenance of this image but it's neat:
+The testing pyramid, with a wide base of unit tests and a narrow peak of end-to-end tests, is a familiar pictogram of the "right way to test". Here it is, reimagined as a bug filter:
 
-<https://pbs.twimg.com/media/C5w-VfEWAAIp_9O.jpg>
+<https://twitter.com/noahsussman/status/836612175707930625?lang=en>
 
 The "wrong way to test" would be the dreaded ice-cream cone, with few unit tests and most coverage focused in expensive, slow, flaky end-to-end tests. This post presents it as the testing cupcake... yummy and bad for you:
 
@@ -36,11 +36,11 @@ We looked at this post from Google in a past issue, but worth mentioning in the 
 
 For more on unit tests, see our older issue:
 
-<http://testersdigest.mehras.net/archive/testers_digest_2017_04_23.html>
+[Issue #12 - April 23, 2017]({{ site.baseurl }}{% post_url 2017-04-23-testers-digest-12-unit-tests %}) // Topic: Unit Tests
 
 For more on end-to-end tests, see our older issue:
 
-<http://testersdigest.mehras.net/archive/testers_digest_2017_04_16.html>
+[Issue #11 - April 16, 2017]({{ site.baseurl }}{% post_url 2017-04-16-testers-digest-11-end-to-end-testing %}) // Topic: End-to-end Testing
 
 Off-Topic
 =========

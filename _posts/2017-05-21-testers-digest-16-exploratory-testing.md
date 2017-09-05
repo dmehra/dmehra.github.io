@@ -18,9 +18,9 @@ What exploratory testing is and how to do it well:
 
 <https://dojo.ministryoftesting.com/lessons/three-digestible-diagrams-to-describe-exploratory-testing>
 
-Exploratory testing explained by James Bach:
+Exploratory testing was well explained by James Bach and Michael Bolton. This post traces the development of their ideas on exploratory testing and arrives at its 3.0 version where ALL testing is defined as exploratory. Per authors, their earlier posts on the subject are best skipped in favor of this one.
 
-<http://www.satisfice.com/articles/et-article.pdf>
+<http://www.satisfice.com/blog/archives/1509>
 
 A comprehensive 180-slide tutorial by Cem Kaner from 2008, still relevant:
 

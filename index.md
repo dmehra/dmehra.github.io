@@ -20,7 +20,7 @@
 
 * [Archive](archive/index.md)
 
-* [View Sample Newsletter](archive/testers_digest_2017_02_05.md)
+* [View Sample Newsletter]({{ site.baseurl }}{% post_url 2017-09-04-testers-digest-30-testing-cars %})
 
 * [FAQ](SETUP.md)
 

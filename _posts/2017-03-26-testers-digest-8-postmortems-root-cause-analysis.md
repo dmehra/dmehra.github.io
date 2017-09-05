@@ -11,7 +11,7 @@ ISSUE #8 - Mar 26, 2017
 
 This issue focuses on the how and why of postmortems. We touched on catastrophic failures in an earlier newsletter:
 
-<http://testersdigest.mehras.net/archive/testers_digest_2017_03_05.html>
+[Issue #5 - March 5, 2017]({{ site.baseurl }}{% post_url 2017-03-05-testers-digest-5-catastrophic-failures %}) // Topic: Catastrophic Failures
 
 What is one to do if the catastrophe already occurred? Learn from it, by running a postmortem analysis.
 

@@ -47,7 +47,7 @@ Ideas on applying shift-right approach to test and monitor microservices:
 
 On testing in production, see also an earlier Tester's Digest issue:
 
-<http://testersdigest.mehras.net/archive/testers_digest_2017_02_12.html>
+[Issue #2 - February 12, 2017]({{ site.baseurl }}{% post_url 2017-02-12-testers-digest-2-testing-in-production %}) Topic: Testing In Production
 
 Then there's the concept of having no testers, but coaching the organization to incorporate testing activities (shift-coach). In other words, that means getting developers to do all the testing. How?
 

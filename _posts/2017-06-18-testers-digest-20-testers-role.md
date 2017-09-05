@@ -11,7 +11,7 @@ ISSUE #20 - June 18, 2017
 
 Let's take a look at the role a tester plays in an engineering organization. Yes, again; Tester's Digest issue #1 opened this subject with coverage of Google's SDET vs TE roles, and today we explore further. For reference:
 
-<http://testersdigest.mehras.net/archive/testers_digest_2017_02_05.html>
+[Issue #1 - February 5, 2017]({{ site.baseurl }}{% post_url 2017-02-05-testers-digest-1-testers-role %}) // Topic: Tester's Role
 
 Topic: Tester's Role
 ====================
