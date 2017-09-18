@@ -34,3 +34,4 @@ More coming each week!
 * [Issue #29 - August 27, 2017]({{ site.baseurl }}{% post_url 2017-08-27-testers-digest-29-levels-of-testing %}) // Topic: Levels of Testing
 * [Issue #30 - September 4, 2017]({{ site.baseurl }}{% post_url 2017-09-04-testers-digest-30-testing-cars %}) // Topic: Testing Cars
 * [Issue #31 - September 10, 2017]({{ site.baseurl }}{% post_url 2017-09-10-testers-digest-31-testing-airplanes %}) // Topic: Testing Airplanes
+* [Issue #32 - September 17, 2017]({{ site.baseurl }}{% post_url 2017-09-17-testers-digest-32-chaos-engineering-gameday %}) // Topic: Chaos Engineering and GameDay Exercises
