@@ -35,3 +35,4 @@ More coming each week!
 * [Issue #30 - September 4, 2017]({{ site.baseurl }}{% post_url 2017-09-04-testers-digest-30-testing-cars %}) // Topic: Testing Cars
 * [Issue #31 - September 10, 2017]({{ site.baseurl }}{% post_url 2017-09-10-testers-digest-31-testing-airplanes %}) // Topic: Testing Airplanes
 * [Issue #32 - September 17, 2017]({{ site.baseurl }}{% post_url 2017-09-17-testers-digest-32-chaos-engineering-gameday %}) // Topic: Chaos Engineering and GameDay Exercises
+* [Issue #33 - September 25, 2017]({{ site.baseurl }}{% post_url 2017-09-25-testers-digest-33-managing-bugs %}) // Topic: Managing Bugs
