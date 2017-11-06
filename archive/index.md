@@ -39,3 +39,4 @@ More coming each week!
 * [Issue #34 - October 8, 2017]({{ site.baseurl }}{% post_url 2017-10-08-testers-digest-34-testing-terminology %}) // Topic: Testing Terminology
 * [Issue #35 - October 22, 2017]({{ site.baseurl }}{% post_url 2017-10-22-testers-digest-35-starwest-highlights %}) // Topic: StarWest 2017 Highlights
 * [Issue #36 - October 28, 2017]({{ site.baseurl }}{% post_url 2017-10-28-testers-digest-36-scary-bugs %}) // Topic: Scary Bugs
+* [Issue #37 - November 5, 2017]({{ site.baseurl }}{% post_url 2017-11-05-testers-digest-37-test-machine-learning %}) // Topic: How To Test Machine Learning
