@@ -1,3 +1,8 @@
+---
+title: "Why We Deprecate"
+excerpt: As humans, we know hoarding is bad for the psyche. As engineers, we need to retire old features when we add new, shiny features. Here is what happens when we fail at deprecation.
+---
+
 # Why We Deprecate
 
 As humans, we know hoarding is bad for the psyche. As engineers, we see the value of refactoring, [deleting old code](https://www.infoq.com/news/2017/02/dead-code), [writing code so it's easy to delete](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to), [pruning irrelevant tests](https://testzius.wordpress.com/2017/04/20/prune-your-automation/). As product managers and UX designers, we need to retire old features when we add new, shiny features.
