@@ -41,3 +41,4 @@ More coming each week!
 * [Issue #36 - October 28, 2017]({{ site.baseurl }}{% post_url 2017-10-28-testers-digest-36-scary-bugs %}) // Topic: Scary Bugs
 * [Issue #37 - November 5, 2017]({{ site.baseurl }}{% post_url 2017-11-05-testers-digest-37-test-machine-learning %}) // Topic: How To Test Machine Learning
 * [Issue #38 - November 19, 2017]({{ site.baseurl }}{% post_url 2017-11-19-testers-digest-38-data-quality-search-quality %}) // Topic: Data Quality and Search Quality
+* [Issue #39 - November 27, 2017]({{ site.baseurl }}{% post_url 2017-11-27-testers-digest-39-reporting-bugs %}) // Topic: Reporting Bugs
