@@ -42,3 +42,4 @@ More coming each week!
 * [Issue #37 - November 5, 2017]({{ site.baseurl }}{% post_url 2017-11-05-testers-digest-37-test-machine-learning %}) // Topic: How To Test Machine Learning
 * [Issue #38 - November 19, 2017]({{ site.baseurl }}{% post_url 2017-11-19-testers-digest-38-data-quality-search-quality %}) // Topic: Data Quality and Search Quality
 * [Issue #39 - November 27, 2017]({{ site.baseurl }}{% post_url 2017-11-27-testers-digest-39-reporting-bugs %}) // Topic: Reporting Bugs
+* [Issue #40 - December 3, 2017]({{ site.baseurl }}{% post_url 2017-12-03-testers-digest-40-testing-metrics %}) // Topic: Testing Metrics
