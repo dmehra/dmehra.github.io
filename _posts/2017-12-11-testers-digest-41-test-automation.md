@@ -1,5 +1,5 @@
 ---
-title: "Tester's Digest #40: Test Automation"
+title: "Tester's Digest #41: Test Automation"
 excerpt: This issue on test automation covers automated regression tests, including UI test automation, including codeless UI test automation.
 ---
 
