@@ -45,3 +45,4 @@ More coming each week!
 * [Issue #40 - December 3, 2017]({{ site.baseurl }}{% post_url 2017-12-03-testers-digest-40-testing-metrics %}) // Topic: Testing Metrics
 * [Issue #41 - December 11, 2017]({{ site.baseurl }}{% post_url 2017-12-11-testers-digest-41-test-automation %}) // Topic: Test Automation
 * [Issue #42 - December 17, 2017]({{ site.baseurl }}{% post_url 2017-12-17-testers-digest-42-mutation-testing %}) // Topic: Mutation Testing
+* [Issue #43 - January 13, 2018]({{ site.baseurl }}{% post_url 2018-01-13-testers-digest-43-debugging-tales %}) // Topic: Debugging Tales
