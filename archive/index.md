@@ -47,3 +47,4 @@ More coming each week!
 * [Issue #42 - December 17, 2017]({{ site.baseurl }}{% post_url 2017-12-17-testers-digest-42-mutation-testing %}) // Topic: Mutation Testing
 * [Issue #43 - January 13, 2018]({{ site.baseurl }}{% post_url 2018-01-13-testers-digest-43-debugging-tales %}) // Topic: Debugging Tales
 * [Issue #44 - January 22, 2018]({{ site.baseurl }}{% post_url 2018-01-22-testers-digest-44-security-risks %}) // Topic: Security Risks
+* [Issue #45 - January 28, 2018]({{ site.baseurl }}{% post_url 2018-01-28-testers-digest-45-security-testing %}) // Topic: Security Testing
