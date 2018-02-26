@@ -50,3 +50,4 @@ More coming each week!
 * [Issue #45 - January 28, 2018]({{ site.baseurl }}{% post_url 2018-01-28-testers-digest-45-security-testing %}) // Topic: Security Testing
 * [Issue #46 - February 4, 2018]({{ site.baseurl }}{% post_url 2018-02-04-testers-digest-46-technical-debt %}) // Topic: Technical Debt
 * [Issue #47 - February 11, 2018]({{ site.baseurl }}{% post_url 2018-02-11-testers-digest-47-writing-better-code %}) // Topic: Writing Better Code
+* [Issue #48 - February 25, 2018]({{ site.baseurl }}{% post_url 2018-02-25-testers-digest-48-load-testing %}) // Topic: Load Testing
