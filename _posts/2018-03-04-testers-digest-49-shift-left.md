@@ -28,9 +28,9 @@ The value of early inclusion of testers on dev projects is in driving clarificat
 
 <https://chroniclesoftesting.blogspot.co.id/2017/05/when-should-tester-engage-in-testing.html>
 
-This post works through an example of questioning requirements to clarify them and then get to test design:
+Ask questions early to prevent problems later:
 
-<http://startesting.it/testing-questioning-requirements/>
+<https://www.testingexcellence.com/software-testing-ask-questions/>
 
 The impact of Quality Driven Development process for one organization. By QDD they mean BDD with automated tests running in dev environment, fixing issues on the fly, and encoding the definition of done as a demo by automated test that drives the UI. This team saw good outcomes: "streamlined our testing process, made us more agile than ever before, raised the quality of our products, and given us an increased awareness of customer satisfaction".
 
