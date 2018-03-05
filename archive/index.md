@@ -51,3 +51,4 @@ More coming each week!
 * [Issue #46 - February 4, 2018]({{ site.baseurl }}{% post_url 2018-02-04-testers-digest-46-technical-debt %}) // Topic: Technical Debt
 * [Issue #47 - February 11, 2018]({{ site.baseurl }}{% post_url 2018-02-11-testers-digest-47-writing-better-code %}) // Topic: Writing Better Code
 * [Issue #48 - February 25, 2018]({{ site.baseurl }}{% post_url 2018-02-25-testers-digest-48-load-testing %}) // Topic: Load Testing
+* [Issue #49 - March 4, 2018]({{ site.baseurl }}{% post_url 2018-03-04-testers-digest-49-shift-left %}) // Topic: Shift-Left

@@ -1,5 +1,5 @@
 ---
-title: "Tester's Digest #46: Load Testing"
+title: "Tester's Digest #48: Load Testing"
 excerpt: We look at the classical QA task of load testing, with some modern twists.
 ---
 
