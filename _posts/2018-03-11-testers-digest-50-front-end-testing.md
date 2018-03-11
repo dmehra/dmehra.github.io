@@ -7,7 +7,9 @@ TESTER'S DIGEST
 ===============
 ISSUE #50 - March 11, 2018
 
-This post and the next couple will be on testing web UI, from front-end components to end-to-end workflows. Today's focus is on Javascript / React.
+This post and the next couple will be on testing web UI, from front-end components to end-to-end workflows. Today's focus is on Javascript / React. An earlier post on UI test automation with some still-relevant resources can be found at:
+
+<http://testersdigest.mehras.net/2017/07/30/testers-digest-26-ui-test-automation.html>
 
 Topic: Front End Testing
 ========================
