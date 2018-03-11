@@ -1,55 +1,121 @@
+---
+title: "Tester's Digest Archive"
+excerpt: Past issues of Tester's Digest from 2017-2018 are available here.
+---
+
 Archive of Tester's Digest past issues
 ======================================
 
 More coming each week!
 
-* [Issue #1 - February 5, 2017]({{ site.baseurl }}{% post_url 2017-02-05-testers-digest-1-testers-role %}) // Topic: Tester's Role
-* [Issue #2 - February 12, 2017]({{ site.baseurl }}{% post_url 2017-02-12-testers-digest-2-testing-in-production %}) // Topic: Testing In Production
-* [Issue #3 - February 20, 2017]({{ site.baseurl }}{% post_url 2017-02-20-testers-digest-3-testing-distributed-systems %}) // Topic: Testing Distributed Systems
-* [Issue #4 - February 26, 2017]({{ site.baseurl }}{% post_url 2017-02-26-testers-digest-4-security-testing %}) // Topic: Security Testing
-* [Issue #5 - March 5, 2017]({{ site.baseurl }}{% post_url 2017-03-05-testers-digest-5-catastrophic-failures %}) // Topic: Catastrophic Failures
-* [Issue #6 - March 12, 2017]({{ site.baseurl }}{% post_url 2017-03-12-testers-digest-6-continuous-testing-shift-x %}) // Topic: Continuous Testing and Shift-X
-* [Issue #7 - March 19, 2017]({{ site.baseurl }}{% post_url 2017-03-19-testers-digest-7-technical-debt %}) // Topic: Technical Debt
-* [Issue #8 - March 26, 2017]({{ site.baseurl }}{% post_url 2017-03-26-testers-digest-8-postmortems-root-cause-analysis %}) // Topic: Postmortems And Root Cause Analysis
-* [Issue #9 - April 2, 2017]({{ site.baseurl }}{% post_url 2017-04-02-testers-digest-9-test-documentation %}) // Topic: Test Documentation
-* [Issue #10 - April 9, 2017]({{ site.baseurl }}{% post_url 2017-04-09-testers-digest-10-hiring-test-engineers %}) // Topic: Hiring Test Engineers
-* [Issue #11 - April 16, 2017]({{ site.baseurl }}{% post_url 2017-04-16-testers-digest-11-end-to-end-testing %}) // Topic: End-to-end Testing
-* [Issue #12 - April 23, 2017]({{ site.baseurl }}{% post_url 2017-04-23-testers-digest-12-unit-tests %}) // Topic: Unit Tests
-* [Issue #13 - April 30, 2017]({{ site.baseurl }}{% post_url 2017-04-30-testers-digest-13-testing-data-science %}) // Topic: Testing Data Science
-* [Issue #14 - May 7, 2017]({{ site.baseurl }}{% post_url 2017-05-07-testers-digest-14-on-maintenance %}) // Topic: On Maintenance
-* [Issue #15 - May 14, 2017]({{ site.baseurl }}{% post_url 2017-05-14-testers-digest-15-failure-injection %}) // Topic: Failure Injection
-* [Issue #16 - May 21, 2017]({{ site.baseurl }}{% post_url 2017-05-21-testers-digest-16-exploratory-testing %}) // Topic: Exploratory Testing
-* [Issue #17 - May 28, 2017]({{ site.baseurl }}{% post_url 2017-05-28-testers-digest-17-testing-practices-at-tech-companies %}) // Topic: Testing Practices At Tech Companies
-* [Issue #18 - June 4, 2017]({{ site.baseurl }}{% post_url 2017-06-04-testers-digest-18-think-like-a-tester %}) // Topic: Think Like A Tester
-* [Issue #19 - June 11, 2017]({{ site.baseurl }}{% post_url 2017-06-11-testers-digest-19-testing-analogies %}) // Topic: Testing Analogies
-* [Issue #20 - June 18, 2017]({{ site.baseurl }}{% post_url 2017-06-18-testers-digest-20-testers-role %}) // Topic: Tester's Role
-* [Issue #21 - June 25, 2017]({{ site.baseurl }}{% post_url 2017-06-25-testers-digest-21-continuous-integration-delivery %}) // Topic: Continuous Integration / Continuous Delivery
-* [Issue #22 - July 3, 2017]({{ site.baseurl }}{% post_url 2017-07-03-testers-digest-22-building-better-software %}) // Topic: Building Better Software
-* [Issue #23 - July 9, 2017]({{ site.baseurl }}{% post_url 2017-07-09-testers-digest-23-code-review %}) // Topic: Code Review
-* [Issue #24 - July 16, 2017]({{ site.baseurl }}{% post_url 2017-07-16-testers-digest-24-static-code-analysis %}) // Topic: Static Code Analysis
-* [Issue #25 - July 24, 2017]({{ site.baseurl }}{% post_url 2017-07-24-testers-digest-25-unit-tests-tdd-worth-it %}) // Topic: Unit Tests and TDD, Worth It?
-* [Issue #26 - July 30. 2017]({{ site.baseurl }}{% post_url 2017-07-30-testers-digest-26-ui-test-automation %}) // Topic: UI Test Automation
-* [Issue #27 - August 7, 2017]({{ site.baseurl }}{% post_url 2017-08-07-testers-digest-27-observability %}) // Topic: Observability
-* [Issue #28 - August 13, 2017]({{ site.baseurl }}{% post_url 2017-08-13-testers-digest-28-learning-to-test %}) // Topic: Learning To Test
-* [Issue #29 - August 27, 2017]({{ site.baseurl }}{% post_url 2017-08-27-testers-digest-29-levels-of-testing %}) // Topic: Levels of Testing
-* [Issue #30 - September 4, 2017]({{ site.baseurl }}{% post_url 2017-09-04-testers-digest-30-testing-cars %}) // Topic: Testing Cars
-* [Issue #31 - September 10, 2017]({{ site.baseurl }}{% post_url 2017-09-10-testers-digest-31-testing-airplanes %}) // Topic: Testing Airplanes
-* [Issue #32 - September 17, 2017]({{ site.baseurl }}{% post_url 2017-09-17-testers-digest-32-chaos-engineering-gameday %}) // Topic: Chaos Engineering and GameDay Exercises
-* [Issue #33 - September 25, 2017]({{ site.baseurl }}{% post_url 2017-09-25-testers-digest-33-managing-bugs %}) // Topic: Managing Bugs
-* [Issue #34 - October 8, 2017]({{ site.baseurl }}{% post_url 2017-10-08-testers-digest-34-testing-terminology %}) // Topic: Testing Terminology
-* [Issue #35 - October 22, 2017]({{ site.baseurl }}{% post_url 2017-10-22-testers-digest-35-starwest-highlights %}) // Topic: StarWest 2017 Highlights
-* [Issue #36 - October 28, 2017]({{ site.baseurl }}{% post_url 2017-10-28-testers-digest-36-scary-bugs %}) // Topic: Scary Bugs
-* [Issue #37 - November 5, 2017]({{ site.baseurl }}{% post_url 2017-11-05-testers-digest-37-test-machine-learning %}) // Topic: How To Test Machine Learning
-* [Issue #38 - November 19, 2017]({{ site.baseurl }}{% post_url 2017-11-19-testers-digest-38-data-quality-search-quality %}) // Topic: Data Quality and Search Quality
-* [Issue #39 - November 27, 2017]({{ site.baseurl }}{% post_url 2017-11-27-testers-digest-39-reporting-bugs %}) // Topic: Reporting Bugs
-* [Issue #40 - December 3, 2017]({{ site.baseurl }}{% post_url 2017-12-03-testers-digest-40-testing-metrics %}) // Topic: Testing Metrics
-* [Issue #41 - December 11, 2017]({{ site.baseurl }}{% post_url 2017-12-11-testers-digest-41-test-automation %}) // Topic: Test Automation
-* [Issue #42 - December 17, 2017]({{ site.baseurl }}{% post_url 2017-12-17-testers-digest-42-mutation-testing %}) // Topic: Mutation Testing
-* [Issue #43 - January 13, 2018]({{ site.baseurl }}{% post_url 2018-01-13-testers-digest-43-debugging-tales %}) // Topic: Debugging Tales
-* [Issue #44 - January 22, 2018]({{ site.baseurl }}{% post_url 2018-01-22-testers-digest-44-security-risks %}) // Topic: Security Risks
-* [Issue #45 - January 28, 2018]({{ site.baseurl }}{% post_url 2018-01-28-testers-digest-45-security-testing %}) // Topic: Security Testing
-* [Issue #46 - February 4, 2018]({{ site.baseurl }}{% post_url 2018-02-04-testers-digest-46-technical-debt %}) // Topic: Technical Debt
-* [Issue #47 - February 11, 2018]({{ site.baseurl }}{% post_url 2018-02-11-testers-digest-47-writing-better-code %}) // Topic: Writing Better Code
-* [Issue #48 - February 25, 2018]({{ site.baseurl }}{% post_url 2018-02-25-testers-digest-48-load-testing %}) // Topic: Load Testing
-* [Issue #49 - March 4, 2018]({{ site.baseurl }}{% post_url 2018-03-04-testers-digest-49-shift-left %}) // Topic: Shift-Left
-* [Issue #50 - March 11, 2018]({{ site.baseurl }}{% post_url 2018-03-11-testers-digest-50-front-end-testing %}) // Topic: Front End Testing
+<!-- monthly table section
+<tr>
+<td> Month </td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+</tr>
+-->
+
+<table>
+<tr>
+<th> Month </th>
+<th colspan="5" align="center"> Issue Topics </th>
+</tr>
+<tr>
+<td> March 2018 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2018-03-04-testers-digest-49-shift-left %}"> Shift-Left </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-03-11-testers-digest-50-front-end-testing %}"> Front End Testing </a></td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+</tr>
+<tr>
+<td> February 2018 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2018-02-04-testers-digest-46-technical-debt %}"> Technical Debt </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-02-11-testers-digest-47-writing-better-code %}"> Writing Better Code </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-02-25-testers-digest-48-load-testing %}"> Load Testing </a></td>
+</tr>
+<tr>
+<td> January 2018 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2018-01-13-testers-digest-43-debugging-tales %}"> Debugging Tales </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-01-22-testers-digest-44-security-risks %}"> Security Risks </a></td>
+<td colspan="3"><a href="{{ site.baseurl }}{% post_url 2018-01-28-testers-digest-45-security-testing %}"> Security Testing </a></td>
+</tr>
+<tr>
+<td> December 2017 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-12-03-testers-digest-40-testing-metrics %}"> Testing Metrics </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2017-12-11-testers-digest-41-test-automation %}"> Test Automation </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2017-12-17-testers-digest-42-mutation-testing %}"> Mutation Testing </a></td>
+</tr>
+<tr>
+<td> November 2017 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-11-05-testers-digest-37-test-machine-learning %}"> How To Test Machine Learning </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2017-11-19-testers-digest-38-data-quality-search-quality %}"> Data Quality and Search Quality </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2017-11-27-testers-digest-39-reporting-bugs %}"> Reporting Bugs </a></td>
+</tr>
+<tr>
+<td> October 2017 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-10-08-testers-digest-34-testing-terminology %}"> Testing Terminology </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2017-10-22-testers-digest-35-starwest-highlights %}"> StarWest 2017 Conference Highlights </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2017-10-28-testers-digest-36-scary-bugs %}"> Scary Bugs </a></td>
+</tr>
+<tr>
+<td> September 2017 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-09-04-testers-digest-30-testing-cars %}"> Testing Cars </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-09-10-testers-digest-31-testing-airplanes %}"> Testing Airplanes </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2017-09-17-testers-digest-32-chaos-engineering-gameday %}"> Chaos Engineering and GameDay Exercises </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-09-25-testers-digest-33-managing-bugs %}"> Managing Bugs </a></td>
+</tr>
+<tr>
+<td> August 2017 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-08-07-testers-digest-27-observability %}"> Observability </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2017-08-13-testers-digest-28-learning-to-test %}"> Learning To Test </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2017-08-27-testers-digest-29-levels-of-testing %}"> Levels of Testing </a></td>
+</tr>
+<tr>
+<td> July 2017 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-07-03-testers-digest-22-building-better-software %}"> Building Better Software </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-07-09-testers-digest-23-code-review %}"> Code Review </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-07-16-testers-digest-24-static-code-analysis %}"> Static Code Analysis </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-07-24-testers-digest-25-unit-tests-tdd-worth-it %}"> Unit Tests and TDD, Worth It? </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-07-30-testers-digest-26-ui-test-automation %}"> UI Test Automation </a></td>
+</tr>
+<tr>
+<td> June 2017 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-06-04-testers-digest-18-think-like-a-tester %}"> Think Like A Tester </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-06-11-testers-digest-19-testing-analogies %}"> Testing Analogies </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-06-18-testers-digest-20-testers-role %}"> Tester's Role </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2017-06-25-testers-digest-21-continuous-integration-delivery %}"> Continuous Integration / Continuous Delivery </a></td>
+</tr>
+<tr>
+<td> May 2017 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-05-07-testers-digest-14-on-maintenance %}"> On Maintenance </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-05-14-testers-digest-15-failure-injection %}"> Failure Injection </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-05-21-testers-digest-16-exploratory-testing %}"> Exploratory Testing </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2017-05-28-testers-digest-17-testing-practices-at-tech-companies %}"> Testing Practices At Tech Companies </a></td>
+</tr>
+<tr>
+<td> April 2017 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-04-02-testers-digest-9-test-documentation %}"> Test Documentation </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-04-09-testers-digest-10-hiring-test-engineers %}"> Hiring Test Engineers </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-04-16-testers-digest-11-end-to-end-testing %}"> End-to-end Testing </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-04-23-testers-digest-12-unit-tests %}"> Unit Tests </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-04-30-testers-digest-13-testing-data-science %}"> Testing Data Science </a></td>
+</tr>
+<tr>
+<td> March 2017 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-03-05-testers-digest-5-catastrophic-failures %}"> Catastrophic Failures </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2017-03-12-testers-digest-6-continuous-testing-shift-x %}"> Continuous Testing and Shift-X </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-03-19-testers-digest-7-technical-debt %}"> Technical Debt </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-03-26-testers-digest-8-postmortems-root-cause-analysis %}"> Postmortems And Root Cause Analysis </a></td>
+</tr>
+<tr>
+<td> February 2017 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-02-05-testers-digest-1-testers-role %}"> Tester's Role </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-02-12-testers-digest-2-testing-in-production %}"> Testing In Production </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2017-02-20-testers-digest-3-testing-distributed-systems %}"> Testing Distributed Systems </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2017-02-26-testers-digest-4-security-testing %}"> Security Testing </a></td>
+</tr>
+</table>
