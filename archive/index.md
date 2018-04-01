@@ -29,7 +29,7 @@ More coming each week!
 <td><a href="{{ site.baseurl }}{% post_url 2018-03-04-testers-digest-49-shift-left %}"> Shift-Left </a></td>
 <td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-03-11-testers-digest-50-front-end-testing %}"> Front End Testing </a></td>
 <td><a href="{{ site.baseurl }}{% post_url 2018-03-18-testers-digest-51-visual-testing %}"> Visual Testing </a></td>
-<td><a href="">  </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2018-03-31-testers-digest-52-ui-testing-selenium %}"> UI Testing with Selenium </a></td>
 </tr>
 <tr>
 <td> February 2018 </td>
