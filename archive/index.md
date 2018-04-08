@@ -25,6 +25,13 @@ More coming each week!
 <th colspan="5" align="center"> Issue Topics </th>
 </tr>
 <tr>
+<td> April 2018 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2018-04-07-testers-digest-53-testing-manifesto %}"> Testing Manifesto </a></td>
+<td colspan="2"><a href="">  </a></td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+</tr>
+<tr>
 <td> March 2018 </td>
 <td><a href="{{ site.baseurl }}{% post_url 2018-03-04-testers-digest-49-shift-left %}"> Shift-Left </a></td>
 <td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-03-11-testers-digest-50-front-end-testing %}"> Front End Testing </a></td>
