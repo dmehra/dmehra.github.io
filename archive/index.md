@@ -27,8 +27,8 @@ More coming each week!
 <tr>
 <td> April 2018 </td>
 <td><a href="{{ site.baseurl }}{% post_url 2018-04-07-testers-digest-53-testing-manifesto %}"> Testing Manifesto </a></td>
-<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-04-15-testers-digest-54-dealing-with-bugs %}"> Dealing With Bugs </a></td>
-<td><a href="">  </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2018-04-15-testers-digest-54-dealing-with-bugs %}"> Dealing With Bugs </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-04-22-testers-digest-55-testing-practices-at-tech-companies %}"> Testing Practices at Tech Companies </a></td>
 <td><a href="">  </a></td>
 </tr>
 <tr>
