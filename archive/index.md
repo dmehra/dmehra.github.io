@@ -25,6 +25,14 @@ More coming each week!
 <th colspan="5" align="center"> Issue Topics </th>
 </tr>
 <tr>
+<td> May 2018 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2018-05-06-testers-digest-57-videogame-manual-testing %}"> Video Game Manual Testing </a></td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+</tr>
+<tr>
 <td> April 2018 </td>
 <td><a href="{{ site.baseurl }}{% post_url 2018-04-07-testers-digest-53-testing-manifesto %}"> Testing Manifesto </a></td>
 <td><a href="{{ site.baseurl }}{% post_url 2018-04-15-testers-digest-54-dealing-with-bugs %}"> Dealing With Bugs </a></td>
