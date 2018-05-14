@@ -7,7 +7,7 @@ TESTER'S DIGEST
 ===============
 ISSUE #58 - May 13, 2018
 
-What skills befit a modern software tester? We examine domain expertise, data-driven testing, technical skills, DevOps skillset, UX aspect, and pair testing.
+In the last issue we looked at manual testing of video game software, and here is test automation in the gaming industry, as promised.
 
 Topic: Video Game Test Automation
 =================================
