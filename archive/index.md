@@ -27,8 +27,7 @@ More coming each week!
 <tr>
 <td> May 2018 </td>
 <td><a href="{{ site.baseurl }}{% post_url 2018-05-06-testers-digest-57-videogame-manual-testing %}"> Video Game Manual Testing </a></td>
-<td><a href="">  </a></td>
-<td><a href="">  </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-05-13-testers-digest-58-videogame-test-automation %}"> Video Game Test Automation </a></td>
 <td><a href="">  </a></td>
 <td><a href="">  </a></td>
 </tr>
