@@ -29,7 +29,7 @@ More coming each week!
 <td><a href="{{ site.baseurl }}{% post_url 2018-05-06-testers-digest-57-videogame-manual-testing %}"> Video Game Manual Testing </a></td>
 <td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-05-13-testers-digest-58-videogame-test-automation %}"> Video Game Test Automation </a></td>
 <td><a href="{{ site.baseurl }}{% post_url 2018-05-20-testers-digest-59-teaching-developers-to-test %}"> Teaching Developers To Test </a></td>
-<td><a href="">  </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2018-05-28-testers-digest-60-which-tests-to-automate %}"> Which Tests To Automate </a></td>
 </tr>
 <tr>
 <td> April 2018 </td>
