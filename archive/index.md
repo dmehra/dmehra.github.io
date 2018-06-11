@@ -27,7 +27,7 @@ More coming each week!
 <tr>
 <td> June 2018 </td>
 <td><a href="{{ site.baseurl }}{% post_url 2018-06-03-testers-digest-61-agile-testing %}"> Agile Testing </a></td>
-<td><a href="">  </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2018-06-10-testers-digest-62-mobile-testing %}"> Mobile Testing </a></td>
 <td><a href="">  </a></td>
 <td><a href="">  </a></td>
 <td><a href="">  </a></td>
