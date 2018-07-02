@@ -25,6 +25,14 @@ More coming each week!
 <th colspan="5" align="center"> Issue Topics </th>
 </tr>
 <tr>
+<td> July 2018 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2018-07-02-testers-digest-64-test-planning %}"> Test Planning </a></td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+</tr>
+<tr>
 <td> June 2018 </td>
 <td><a href="{{ site.baseurl }}{% post_url 2018-06-03-testers-digest-61-agile-testing %}"> Agile Testing </a></td>
 <td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-06-10-testers-digest-62-mobile-testing %}"> Mobile Testing </a></td>
