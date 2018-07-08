@@ -27,7 +27,7 @@ More coming each week!
 <tr>
 <td> July 2018 </td>
 <td><a href="{{ site.baseurl }}{% post_url 2018-07-02-testers-digest-64-test-planning %}"> Test Planning </a></td>
-<td><a href="">  </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2018-07-08-testers-digest-65-testing-ml-models %}"> Testing ML Models </a></td>
 <td><a href="">  </a></td>
 <td><a href="">  </a></td>
 <td><a href="">  </a></td>
