@@ -25,6 +25,12 @@ More coming each week!
 <th colspan="5" align="center"> Issue Topics </th>
 </tr>
 <tr>
+<td> August 2018 </td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-08-05-testers-digest-68-test-reliability %}"> Test Reliability </a></td>
+<td colspan="2"><a href="">  </a></td>
+<td><a href="">  </a></td>
+</tr>
+<tr>
 <td> July 2018 </td>
 <td><a href="{{ site.baseurl }}{% post_url 2018-07-02-testers-digest-64-test-planning %}"> Test Planning </a></td>
 <td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-07-08-testers-digest-65-testing-ml-models %}"> Testing ML Models </a></td>
