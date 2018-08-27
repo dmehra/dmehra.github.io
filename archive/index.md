@@ -28,7 +28,7 @@ More coming each week!
 <td> August 2018 </td>
 <td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-08-05-testers-digest-68-test-reliability %}"> Test Reliability </a></td>
 <td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-08-12-testers-digest-69-avoiding-bugs %}"> Avoiding Bugs </a></td>
-<td><a href="">  </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2018-08-26-testers-digest-70-ai-for-testing %}"> AI For Testing </a></td>
 </tr>
 <tr>
 <td> July 2018 </td>
