@@ -25,6 +25,13 @@ More coming each week!
 <th colspan="5" align="center"> Issue Topics </th>
 </tr>
 <tr>
+<td> October 2018 </td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-10-14-testers-digest-74-tester-developer-collaboration %}"> Tester/Developer Collaboration </a></td>
+<td colspan="2"><a href="">  </a></td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+</tr>
+<tr>
 <td> September 2018 </td>
 <td><a href="{{ site.baseurl }}{% post_url 2018-09-09-testers-digest-71-debugging %}"> Debugging </a></td>
 <td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-09-16-testers-digest-72-testing-practices-at-tech-companies %}"> Testing Practices at Tech Companies </a></td>
