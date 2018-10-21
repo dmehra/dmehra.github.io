@@ -27,8 +27,7 @@ More coming each week!
 <tr>
 <td> October 2018 </td>
 <td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-10-14-testers-digest-74-tester-developer-collaboration %}"> Tester/Developer Collaboration </a></td>
-<td colspan="2"><a href="">  </a></td>
-<td><a href="">  </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-10-21-testers-digest-75-testing-usability %}"> Testing Usability </a></td>
 <td><a href="">  </a></td>
 </tr>
 <tr>
@@ -87,7 +86,7 @@ More coming each week!
 <td> January 2018 </td>
 <td><a href="{{ site.baseurl }}{% post_url 2018-01-13-testers-digest-43-debugging-tales %}"> Debugging Tales </a></td>
 <td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-01-22-testers-digest-44-security-risks %}"> Security Risks </a></td>
-<td colspan="3"><a href="{{ site.baseurl }}{% post_url 2018-01-28-testers-digest-45-security-testing %}"> Security Testing </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-01-28-testers-digest-45-security-testing %}"> Security Testing </a></td>
 </tr>
 <tr>
 <td> December 2017 </td>
