@@ -28,7 +28,7 @@ More coming each week!
 <td> October 2018 </td>
 <td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-10-14-testers-digest-74-tester-developer-collaboration %}"> Tester/Developer Collaboration </a></td>
 <td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-10-21-testers-digest-75-testing-usability %}"> Testing Usability </a></td>
-<td><a href="">  </a></td>
+<td><a href="{{ site.baseurl }}{% post_url 2018-10-28-testers-digest-76-managing-bugs %}"> Managing Bugs </a></td>
 </tr>
 <tr>
 <td> September 2018 </td>
