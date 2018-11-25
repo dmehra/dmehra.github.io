@@ -25,6 +25,14 @@ More coming each week!
 <th colspan="5" align="center"> Issue Topics </th>
 </tr>
 <tr>
+<td> Nov/Dec 2018 </td>
+<td><a href="{{ site.baseurl }}{% post_url 2018-11-25-testers-digest-77-testbash-sf %}"> TestBash SF 2018 </a></td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+</tr>
+<tr>
 <td> October 2018 </td>
 <td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-10-14-testers-digest-74-tester-developer-collaboration %}"> Tester/Developer Collaboration </a></td>
 <td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-10-21-testers-digest-75-testing-usability %}"> Testing Usability </a></td>
