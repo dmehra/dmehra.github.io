@@ -7,12 +7,6 @@ TESTER'S DIGEST
 ===============
 ISSUE #78 - December 23, 2018
 
-Esteemed readers of Tester's Digest, my apologies for a break in publication cadence, this holiday season overwhelmed your editor. Having reflected on my human limitations, I'm putting out a call for a co-editor. If you would be interested in managing TD newsletter with me, please reach out.
-
-Also, I am still looking to hire a stellar Quality Engineer for my team at Quid, San Francisco or Boston location. Let your tester friends know!
-
-<https://quid.com/job-openings/job/index.html?gh_jid=1430472>
-
 Today's topic is test automation in large systems, which these days tends to mean a distributed, microservice based architecture. Since Google has just about the largest system under test, a couple of posts are from their blogs.
 
 Topic: Testing At Scale
