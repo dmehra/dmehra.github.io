@@ -25,12 +25,16 @@ More coming each week!
 <th colspan="5" align="center"> Issue Topics </th>
 </tr>
 <tr>
+<td> February 2019 </td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2019-02-03-testers-digest-79-testing-trends %}"> Testing Trends 2019 </a></td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+<td><a href="">  </a></td>
+</tr>
+<tr>
 <td> Nov/Dec 2018 </td>
-<td><a href="{{ site.baseurl }}{% post_url 2018-11-25-testers-digest-77-testbash-sf %}"> TestBash SF 2018 </a></td>
-<td><a href="{{ site.baseurl }}{% post_url 2018-12-23-testers-digest-78-testing-at-scale %}"> Testing At Scale </a></td>
-<td><a href="">  </a></td>
-<td><a href="">  </a></td>
-<td><a href="">  </a></td>
+<td colspan="2"><a href="{{ site.baseurl }}{% post_url 2018-11-25-testers-digest-77-testbash-sf %}"> TestBash SF 2018 </a></td>
+<td colspan="3"><a href="{{ site.baseurl }}{% post_url 2018-12-23-testers-digest-78-testing-at-scale %}"> Testing At Scale </a></td>
 </tr>
 <tr>
 <td> October 2018 </td>
